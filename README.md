@@ -34,8 +34,6 @@ To use Project Fractures:
 ## Support
 
 For any issues, inquiries, or feedback, feel free to reach out to the author.
-Author: Nirav
-Contact: [dungrani9440nirav@gmail.com]
 
 ## Contributing
 
